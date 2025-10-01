@@ -1,5 +1,5 @@
 {
-    "Test_List": ["syntheticTestCases","wrrPaperTestCases"],
+    "Test_List": ["celia1990"],
         
     "Solver": "ida",
     
@@ -7,5 +7,5 @@
     
     "Version": "non-actors",
     
-    "Executables": ["/Users/amedin/Research/SummaSundials/summa/bin/summa_sundials.exe"]
+    "Executables": ["/home/seantrim/Documents/SUMMA/summa/bin/summa_sundials.exe"]
 }
